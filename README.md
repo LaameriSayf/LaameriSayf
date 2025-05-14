@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hello, I'm Sayf Laameri</h1>
+<h1 align="center">👋 Hi, I'm Sayf Laameri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js+Lover;Passionate+about+building+cool+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Spring+Boot+%7C+React+%7C+Node.js+Lover;Passionate+about+clean+code+%26+scalable+apps!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a **Full-Stack Developer**
-- 👀 Interested in **DevOps, and Clean Architecture**
-- 🌱 Currently learning **Docker, Microservices & System Design**
-- 💬 Ask me about **Java, React, Spring Boot, and REST APIs**
-- 💞️ Open to collaborate on **meaningful & scalable projects**
-- 📫 Reach me at **laamerisayf@gmail.com**
-- ⚡ Fun fact: I automate everything... even my coffee machine ☕🤖
+- 🔭 I’m working on building **modern full-stack applications**
+- 👀 Passionate about **Java, DevOps, and UI/UX**
+- 🌱 Currently learning **Kubernetes, CI/CD & Software Architecture**
+- 💬 Ask me about **backend logic or frontend polish**
+- 🤝 I’m open to collaborating on **open-source and impactful products**
+- 📫 Reach me: **laamerisayf@gmail.com**
+- ⚡ Fun fact: I fix bugs faster when there's music playing 🎧
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -33,22 +33,35 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaameriSayf&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaameriSayf&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaameriSayf&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LaameriSayf&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaameriSayf&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 My Favorite Quote
+## 🧮 Total Contributions
 
-> "First, solve the problem. Then, write the code." – John Johnson
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LaameriSayf&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/commit-activity/y/LaameriSayf/LaameriSayf?style=flat&color=brightgreen" />
+  <img src="https://img.shields.io/github/last-commit/LaameriSayf/LaameriSayf?style=flat&color=blue" />
+</p>
 
 ---
 
-<!---
-LaameriSayf/LaameriSayf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaameriSayf/LaameriSayf/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+##
